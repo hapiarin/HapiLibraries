@@ -1,4 +1,0 @@
-# keyword1 jest od grubego highlighu a keyword 2 jest od chudego XDD
-
-example 	KEYWORD1	example
-Red     	KEYWORD2
