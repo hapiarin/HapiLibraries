@@ -1,4 +1,4 @@
-# keyword1 jest od grubego highlighu a keyword 2 jest od chudego XDD
+# keyword1 jest od grubego highlighu(np do include) a keyword 2 jest od chudszego (np do funkcji).
 
 example 	KEYWORD1	example
 Red     	KEYWORD2
