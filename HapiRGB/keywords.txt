@@ -1,0 +1,16 @@
+HapiRGB 	KEYWORD1	HapiRGB
+
+Red     	KEYWORD2
+Green	KEYWORD2
+Blue	KEYWORD2
+Cyan	KEYWORD2
+Magneta	KEYWORD2
+Yellow	KEYWORD2
+White     	KEYWORD2
+Raspberry     	KEYWORD2
+Flash     	KEYWORD2
+Fade     	KEYWORD2
+Pink     	KEYWORD2
+Violet     	KEYWORD2
+Orange     	KEYWORD2
+FlashRGB     	KEYWORD2
